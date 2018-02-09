@@ -1,0 +1,3 @@
+FROM alpine
+COPY daemon.sh /
+ENTRYPOINT /daemon.sh
