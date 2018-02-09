@@ -11,5 +11,6 @@ static | `localhost:8081`
 ## Access containers
 Container | Command
 ------------ | -------------
+master | `master/access.sh`
 logging | `logging/access.sh`
 static | `static/access.sh`
