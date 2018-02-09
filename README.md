@@ -6,8 +6,8 @@ A simple project to understand docker
 ## Server addresses
 Container | Address
 ------------ | -------------
-logging | localhost:8080
-static | localhost:8081
+logging | `localhost:8080`
+static | `localhost:8081`
 ## Access containers
 Container | Command
 ------------ | -------------
