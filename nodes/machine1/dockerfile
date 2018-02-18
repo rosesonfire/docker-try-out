@@ -1,2 +1,1 @@
 FROM swarm
-EXPOSE 2375
