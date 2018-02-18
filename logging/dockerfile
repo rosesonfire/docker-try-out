@@ -1,4 +1,0 @@
-FROM node
-COPY app/ /var/www/node/
-EXPOSE 80
-CMD cd /var/www/node && npm install && npm start
